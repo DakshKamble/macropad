@@ -1,0 +1,6 @@
+Add component: Footprint Not Found 
+Added Component: Designator=U(CherryMX_1.00u_KailhSocket)
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "CherryMX_LTST-A683CEGBW"; VariantName = "[No Variations]"
+Add Class Member: Failed to add class member : Component SW CherryMX
+Added Member To Class: ClassName=Sheet1 Member=Component U CherryMX_LTST-A683CEGBW
